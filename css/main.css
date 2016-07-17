@@ -1,0 +1,181 @@
+body{
+ 
+ background:#E0FFFF;
+  
+  padding-top: 10px;
+ 
+   padding-right: 0px;
+
+    padding-bottom: 10px;
+    
+padding-left: 0px;
+
+}
+
+header{
+ 
+ width:880px;
+ 
+ height:150px;
+
+  padding-top: 10px;
+   
+ padding-right: 200px;
+   
+ padding-bottom: 10px;
+   
+ padding-left: 100px;
+   
+ margin-left: auto; 
+ 
+ margin-right: auto;
+  
+  }
+
+#headersection {
+  
+ width: 900px;
+  
+height: 150px;
+ 
+ margin-bottom: 20px;
+ 
+padding: 30px 30px 30px 30px;
+ 
+padding-right: 100px;
+
+ padding-left: 100px;
+ 
+font-weight: bold;
+  
+text-align: center;
+ 
+ text-shadow: 2px 2px Times New Roman #BC8F8F;
+  
+color: #33cc33;
+  
+background: #00FFFF;
+
+background-repeat:no-repeat;
+ background-image:url(imagess.jpg);
+background-size:cover;
+
+}
+
+h1
+{
+ font: bold 250% Bodoni MT Black;
+ 
+ color: #000000;
+  
+text-align:center;
+}
+
+
+.Logo{
+width:25px;
+height:25px;
+
+}
+ 
+.a{
+width:60px; 
+height:60px; 
+font-size:25px;
+ color:cyan;
+list-style:none;
+
+}
+
+.p{
+position: centre;
+font-size: 25px;
+color: lime;
+
+}
+.i{
+    font-size: 50px;
+    margin-left: 610px;
+     color: crimson;
+}
+
+.section {
+position:absolute;
+
+}
+#fname{
+width: 25%;
+    padding: 15px;
+    margin-right: 12px;
+    margin-bottom: 16px;
+    font-size: 16px;
+    color: aquamarine;
+    border-radius: 3px;
+    border: 1px solid Black;
+
+}
+#lname{
+width: 25%;
+    padding: 15px;
+margin-right: 12px;
+margin-bottom: 16px;
+font-size: 16px;
+    color: aquamarine;
+border-radius: 3px;
+border: 1px solid Black;
+
+}
+#email{
+width: 25%;
+    padding: 15px;
+margin-right: 12px;
+margin-bottom: 16px;
+font-size: 16px;
+    color: aquamarine;
+border-radius: 3px;
+border: 1px solid Black;
+}
+
+#phone{
+width: 25%;
+    padding: 15px;
+margin-right: 12px;
+margin-bottom: 16px;
+font-size: 16px;
+    color: aquamarine;
+border-radius: 3px;
+border: 1px solid Black;
+
+}
+
+span{
+margin-right: 12px;
+margin-bottom: 16px;
+
+}
+
+#comments{
+width: 50%;
+    padding: 15px;
+    margin-right: 12px;
+    margin-bottom: 16px;
+    font-size: 16px;
+    color: aquamarine;
+    border-radius: 3px;
+    border: 1px solid Black;
+
+
+}
+#button{
+    width: 11%;
+    padding: 15px;
+    margin-right: 5px;
+    margin-bottom: 15px;
+    font-size: 17px;
+    color: Black;
+    border-radius: 2px;
+    border: 1px solid Black;
+    margin-left: 220px;
+     background-color: salmon;
+
+}
